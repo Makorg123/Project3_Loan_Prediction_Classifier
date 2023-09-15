@@ -6,8 +6,8 @@ import pickle
 
 model = pickle.load(open('regmodel.pkl', 'rb'))
 
-st.header(':blue[Bank Loan] Prediction Using Machine Learning')
-st.write('Please enter the required details and click on the predict button to check if you are eligible for a loan or not')
+st.header(':blue[Bank Loan] Prediction Using Machine Learning :bank:')
+st.write('Please enter the required details and click on the :red[predict button] to check if you are eligible for a loan or not')
 st.divider()
 col1, col2, col3, col4 = st.columns(4)
 with col1:
