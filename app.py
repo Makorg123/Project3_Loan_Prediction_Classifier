@@ -49,10 +49,10 @@ with col3:
    cred = st.selectbox('Credit Score',cred_options,format_func=lambda x: cred_display[x])
 
    # Applicant Monthly Income
-   mon_income = st.number_input("Applicant's Monthly Income($)",value=0)
+   mon_income = st.number_input("Applicant's  Income($)",value=0)
 
    # Co-Applicant Monthly Income
-   co_mon_income = st.number_input("Co-Applicant's Monthly Income($)",value=0)
+   co_mon_income = st.number_input("Co-Applicant's Income($)",value=0)
 
 with col4:
    # Loan Amount
