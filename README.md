@@ -1,4 +1,4 @@
-## Project Title: Bank Loan Prediction Using Logistic Regression
+## Project Title: Bank Loan Prediction Using Logistic Regression [Analytics Vidhya]
 
 ### Technology used:
 <div align ='left'>
